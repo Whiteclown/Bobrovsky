@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="countries">Страны: %1$s</string>
+    <string name="genres">Жанры: %1$s</string>
+    <string name="unknown_error_text">Неизвестная ошибка!</string>
+    <string name="no_network_error_text">Проверьте подключение к сети интернет!</string>
+    <string name="error_dialog_title">Ошибка!</string>
+    <string name="error_dialog_neutral_button_text">Ок!</string>
+</resources>

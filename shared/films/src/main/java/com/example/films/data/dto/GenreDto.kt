@@ -1,0 +1,8 @@
+package com.example.films.data.dto
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class GenreDto(
+    val genre: String,
+)
